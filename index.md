@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Mr Luo's Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/Evan-Luo-jpg/ComputerProgramming1portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
